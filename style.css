@@ -1,0 +1,11 @@
+p {
+    background-color: lightskyblue;
+    border: 2px solid grey;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 4px 5px 3px grey;
+
+}
+p:hover{
+    background-color: bisque;
+}
